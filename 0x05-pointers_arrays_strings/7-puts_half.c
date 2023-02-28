@@ -2,7 +2,7 @@
 
 /**
  * puts_half - Prints half of a string
- * @str: The string to print 
+ * @str: The string to print
  * Return: void
  */
 void puts_half(char *str)
@@ -10,6 +10,7 @@ void puts_half(char *str)
 {
 	int j = 0;
 	int k;
+
 	while (str[j] != '\0')
 	{
 	j++;
