@@ -5,8 +5,7 @@
   * main Entry - point
   * Description: 'get last digits'
   * Return: Always 0
-  */ 
-
+  */
 int main(void)
 {
 	int n;
